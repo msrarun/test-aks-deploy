@@ -1,0 +1,3 @@
+containers:
+- name: azure-vote-front
+  image: sanach.azurecr.io/azure-vote-front:v1
